@@ -11,3 +11,5 @@ Screenshots :
 
  <img src="login.png"> 
  <img src="page.png">
+<img src="1.png">
+<img src="2.png">
