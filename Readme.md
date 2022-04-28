@@ -3,8 +3,8 @@
 ## <code><em>Key Features</em></code>
 
 ### CRUD
-### Logging Support
 ### Sorting
+### Logging Support
 ### Searching by name
 ### User Authentication based on roles
 <br><br>
