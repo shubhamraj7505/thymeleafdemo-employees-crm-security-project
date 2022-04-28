@@ -4,6 +4,8 @@
 
 ### CRUD
 ### Logging Support
+### Sorting
+### Searching by name
 ### User Authentication based on roles
 <br><br>
 
