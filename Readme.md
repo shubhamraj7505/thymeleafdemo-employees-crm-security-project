@@ -1,6 +1,6 @@
-# <em><code>thymeleafdemo-employees-crm-security-project</code></em>
+# <em><code>Customer Relationship Management Project</code></em>
 
-## <code><em>Features</em></code>
+## <code><em>Key Features</em></code>
 
 ### CRUD
 ### Logging Support
